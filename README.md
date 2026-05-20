@@ -7,13 +7,13 @@
 I am a quantitative finance graduate student at the University of Chicago with a background in engineering, data science, and production machine learning. My work sits at the intersection of statistics, stochastic modeling, and machine learning for systematic trading.
 
 
-## Current Focus
+## 🎧&nbsp; Current Focus
 
 - Statistical arbitrage and market‑making strategies in equities, crypto, and options
 - Machine Learning and deep learning for signal discovery and validation
 - Time‑series modeling
 
-## Selected Work
+## 📌&nbsp; Selected Work
 
 - **Cross-Stock Anomaly Research (Equities)**  
   Research project on extending classical pairs trading to group-based equity strategies. The work uses multi-factor risk-model residualization, spectral embedding of return correlations, and machine learning-based clustering to define regularly rebalanced stock groups and study group-level mean reversion and momentum.
