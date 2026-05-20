@@ -4,11 +4,11 @@
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats-k4xr.vercel.app/api?username=theov07&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=theov07&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats-k4xr.vercel.app/api?username=thibaut-dst&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=thibaut-dst&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theov07&theme=tokyo-night)
-![GitHub Streak](https://streak-stats.demolab.com?user=theov07)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thibaut-dst&theme=tokyo-night)
+![GitHub Streak](https://streak-stats.demolab.com?user=thibaut-dst)
 
 
 
